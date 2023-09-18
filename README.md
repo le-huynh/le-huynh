@@ -6,7 +6,7 @@
   <a href= "https://github.com/le-huynh">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "www.linkedin.com/in/le-huynh-truc-ly">
+  <a href= "https://www.linkedin.com/in/le-huynh-truc-ly/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href= "https://lehuynh.rbind.io/about/">
