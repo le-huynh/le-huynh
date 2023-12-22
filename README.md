@@ -50,11 +50,13 @@
 <br />
 <br />
 
+<!--
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-huynh&hide=html,css,javascript,tex)
 
 ---
+-->
 
 <!--
 Definitions:
