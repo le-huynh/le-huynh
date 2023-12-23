@@ -9,13 +9,13 @@
   <a href= "https://www.linkedin.com/in/le-huynh-truc-ly/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href= "https://lehuynh.rbind.io/about/">
+  <a href= "https://lehuynh.rbind.io">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
   <a href="https://orcid.org/0000-0002-5227-2185">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
-  <a href="https://github.com/le-huynh/CV/">
+  <a href="https://lehuynh.rbind.io/cv/cv_pagedown.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
   </a>
   <a href="mailto:trucly.lehuynh@gmail.com">
