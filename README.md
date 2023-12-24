@@ -50,13 +50,14 @@
 <br />
 <br />
 
-<!--
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-huynh&hide=html,css,javascript,tex)
 
 ---
--->
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=le-huynh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&line_height=29" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-huynh&hide=javascript,html,css,tex,jupyter%20notebook)
+
+---
+
 
 <!--
 Definitions:
