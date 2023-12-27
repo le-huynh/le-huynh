@@ -1,31 +1,17 @@
-<!-- Social Section -->
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+<i> <h1> Hello! Xin Chào! <br> 
+    <h2> I'm basically a friendly neighborhood coder, always up for a solid tech chat.</i>
 
-<p align="center">
-  <a href= "https://github.com/le-huynh">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <a href= "https://www.linkedin.com/in/le-huynh-truc-ly/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "https://lehuynh.rbind.io">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://orcid.org/0000-0002-5227-2185">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
-  </a>
-  <a href="https://lehuynh.rbind.io/cv/cv_pagedown.pdf">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
-  </a>
-  <a href="mailto:trucly.lehuynh@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
-  </a>
+<br>
 
-  
-</p>
+<!-- Social section -->
 
-<br />
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:trucly.lehuynh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-huynh-truc-ly/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5227-2185)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/le-huynh)
+[![Resume](https://img.shields.io/badge/Resume-%199900.svg?logo=files&logoColor=white)](https://lehuynh.rbind.io/cv/cv_pagedown.pdf)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?logo=rss&logoColor=white)](https://lehuynh.rbind.io)
+
 
 ### Languages and Tools:
 
@@ -50,17 +36,16 @@
 <br />
 <br />
 
-
-
 ---
+
+## GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=le-huynh&theme=gotham&hide_border=true)<br/>
 
-![GitHub Stats Card](https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide=prs&show=prs_merged_percentage&line_height=40)
-![Top Langs](https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&hide=javascript,html,css,tex,jupyter%20notebook)
+| <a href="https://github.com/le-huynh/github-readme-stats"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&rank_icon=github&hide_border=true&hide=prs&show=prs_merged_percentage&include_all_commits=true" alt="Le-Huynh's github stats" /></a> | <a href="https://github.com/le-huynh/github-readme-stats"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&layout=compact&hide_border=true&hide=javascript,html,css,tex,jupyter%20notebook" /></a> |
+| ------------- | ------------- |
 
 ---
-
 
 <!--
 Definitions:
@@ -83,5 +68,3 @@ Definitions:
 [sas]: https://www.sas.com/en_us/home.html
 [shiny]: https://www.rstudio.com/products/shiny/
 [stan]: https://mc-stan.org/
-
-
