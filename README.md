@@ -50,12 +50,14 @@
 <br />
 <br />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=le-huynh&theme=gotham&hide_border=true)<br/>
+
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&line_height=29" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=le-huynh&hide=javascript,html,css,tex,jupyter%20notebook)
+![](https://github-readme-streak-stats.herokuapp.com/?user=le-huynh&theme=gotham&hide_border=true)<br/>
+
+![GitHub Stats Card](https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&hide=prs&show=prs_merged_percentage&line_height=40)
+![Top Langs](https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&hide=javascript,html,css,tex,jupyter%20notebook)
 
 ---
 
