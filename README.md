@@ -50,6 +50,7 @@
 <br />
 <br />
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=le-huynh&theme=gotham&hide_border=true)<br/>
 
 ---
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&line_height=29" />
