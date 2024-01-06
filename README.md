@@ -40,7 +40,10 @@
 
 ## GitHub Stats:
 
-![](https://github-readme-streak-stats-le-huynhs-projects.vercel.app/?user=le-huynh&theme=gotham&hide_border=true)<br/>
+|---------------------| <a href="https://github.com/le-huynh/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats-le-huynhs-projects.vercel.app/?user=le-huynh&theme=shadow-green&hide_border=false" alt="Le-Huynh's github stats" /></a> |---------------------|
+| ------------- | ------------- | ------------- |
+
+<br>
 
 | <a href="https://github.com/le-huynh/github-readme-stats"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&rank_icon=github&hide_border=true&hide=prs&show=prs_merged_percentage&include_all_commits=true" alt="Le-Huynh's github stats" /></a> | <a href="https://github.com/le-huynh/github-readme-stats"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&layout=compact&hide_border=true&hide=javascript,html,css,tex,jupyter%20notebook,php" /></a> |
 | ------------- | ------------- |
