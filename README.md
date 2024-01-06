@@ -13,7 +13,7 @@
 [![Blog](https://img.shields.io/badge/Blog-FFA500?logo=rss&logoColor=white)](https://lehuynh.rbind.io)
 
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="R" width="26px" src="https://github.com/github/explore/blob/main/topics/r/r.png?raw=true" />][r]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -38,7 +38,7 @@
 
 ---
 
-## GitHub Stats:
+## GitHub Stats
 
 |---------------------| <a href="https://github.com/le-huynh/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats-le-huynhs-projects.vercel.app/?user=le-huynh&theme=shadow-green&hide_border=false" alt="Le-Huynh's github stats" /></a> |---------------------|
 | ------------- | ------------- | ------------- |
